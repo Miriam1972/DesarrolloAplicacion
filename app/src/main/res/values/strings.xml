@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">DesarrolloAplicacion</string>
+    <string name="Titulo">Bienvenid@!!!</string>
+    <string name= "solicitud_nombre">Nombre</string>
+    <string name= "report_planned_date">FechadeNacimiento</string>
+</resources>
